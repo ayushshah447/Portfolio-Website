@@ -56,11 +56,11 @@ export default function Projects() {
             />
 
             <ProjectCard
-              title="AI Resume Builder"
-              description="A productivity-focused application that helps developers generate and optimize resumes using AI."
-              tags={["React", "Node.js", "OpenAI"]}
-              image="/projects/ai-resume.jpg"
-              href="#"
+              title="PHANTOM"
+              description="A high-performance web platform built for a hardware engineering startup. Focused on delivering a seamless user experience for showcasing industrial-grade embedded solutions and aerospace technology."
+              tags={["Next.js", "Framer", "Typescript"]}
+              image="/projects/phantom.jpeg"
+              href="https://www.phantom.com.np/"
             />
           </div>
         </div>
